@@ -1,0 +1,541 @@
+Year,Data type,Sex,Age group,NSW,Vic,Qld,WA,SA,Tas,ACT,NT,National(a)
+2023-24,Proportion of clients that avoided homelessness,Females,0 to 9,81.1,82.7,82.6,78.9,82.8,n.p.,n.p.,83.0,81.6
+2023-24,Proportion of clients that avoided homelessness,Females,10 to 14,84.5,85.8,87.1,84.7,84.8,n.p.,n.p.,n.p.,85.1
+2023-24,Proportion of clients that avoided homelessness,Females,15 to 17,77.0,76.7,74.5,79.4,84.8,n.p.,n.p.,n.p.,77.4
+2023-24,Proportion of clients that avoided homelessness,Females,18 to 24,77.0,70.6,76.3,78.3,78.0,n.p.,n.p.,80.4,74.3
+2023-24,Proportion of clients that avoided homelessness,Females,25 to 34,83.2,79.7,80.1,81.0,81.2,n.p.,n.p.,80.6,80.1
+2023-24,Proportion of clients that avoided homelessness,Females,35 to 44,83.1,82.8,84.6,83.5,78.8,n.p.,n.p.,77.3,82.1
+2023-24,Proportion of clients that avoided homelessness,Females,45 to 54,87.6,85.3,88.1,85.2,85.7,n.p.,n.p.,79.9,85.5
+2023-24,Proportion of clients that avoided homelessness,Females,55 to 64,86.8,89.8,94.2,88.1,85.8,n.p.,n.p.,n.p.,88.9
+2023-24,Proportion of clients that avoided homelessness,Females,65+,93.2,90.1,94.6,90.6,n.p.,n.p.,n.p.,n.p.,90.7
+2023-24,Proportion of clients that avoided homelessness,Females,Total,82.6,81.9,83.7,82.7,81.8,77.0,71.0,80.9,81.9
+2023-24,Proportion of clients that avoided homelessness,Males,0 to 9,83.7,80.1,84.7,78.7,85.6,n.p.,n.p.,83.4,81.7
+2023-24,Proportion of clients that avoided homelessness,Males,10 to 14,87.9,86.0,87.4,83.2,81.0,n.p.,n.p.,n.p.,86.0
+2023-24,Proportion of clients that avoided homelessness,Males,15 to 17,78.6,81.5,81.6,n.p.,n.p.,n.p.,n.p.,n.p.,80.9
+2023-24,Proportion of clients that avoided homelessness,Males,18 to 24,78.0,69.7,73.9,78.4,77.9,n.p.,n.p.,n.p.,73.2
+2023-24,Proportion of clients that avoided homelessness,Males,25 to 34,76.2,74.9,79.1,84.1,76.9,n.p.,n.p.,n.p.,75.6
+2023-24,Proportion of clients that avoided homelessness,Males,35 to 44,73.5,73.4,78.1,81.7,75.5,n.p.,n.p.,n.p.,73.9
+2023-24,Proportion of clients that avoided homelessness,Males,45 to 54,81.7,74.5,79.8,83.1,74.6,n.p.,n.p.,n.p.,76.4
+2023-24,Proportion of clients that avoided homelessness,Males,55 to 64,82.5,83.8,85.7,90.4,n.p.,n.p.,n.p.,n.p.,83.8
+2023-24,Proportion of clients that avoided homelessness,Males,65+,91.0,90.1,90.7,92.7,n.p.,n.p.,n.p.,n.p.,89.7
+2023-24,Proportion of clients that avoided homelessness,Males,Total,81.0,77.5,82.0,83.2,79.7,65.5,72.5,81.8,79.0
+2023-24,Proportion of clients that avoided homelessness,All clients,0 to 9,82.4,81.4,83.7,78.8,84.2,n.p.,n.p.,83.2,81.7
+2023-24,Proportion of clients that avoided homelessness,All clients,10 to 14,86.1,85.9,87.3,84.0,82.8,n.p.,n.p.,84.7,85.6
+2023-24,Proportion of clients that avoided homelessness,All clients,15 to 17,77.7,78.9,78.0,83.7,83.1,n.p.,n.p.,n.p.,78.9
+2023-24,Proportion of clients that avoided homelessness,All clients,18 to 24,77.3,70.3,75.6,78.3,78.0,70.9,n.p.,81.8,74.0
+2023-24,Proportion of clients that avoided homelessness,All clients,25 to 34,81.9,78.1,79.9,81.5,80.2,74.8,n.p.,80.2,78.9
+2023-24,Proportion of clients that avoided homelessness,All clients,35 to 44,81.0,79.6,82.9,83.2,78.0,64.3,n.p.,76.7,79.8
+2023-24,Proportion of clients that avoided homelessness,All clients,45 to 54,85.7,81.2,85.3,84.6,82.5,n.p.,n.p.,78.0,82.4
+2023-24,Proportion of clients that avoided homelessness,All clients,55 to 64,85.0,87.2,90.7,88.9,83.8,n.p.,n.p.,80.0,86.8
+2023-24,Proportion of clients that avoided homelessness,All clients,65+,92.3,90.1,92.9,91.4,84.3,n.p.,n.p.,n.p.,90.3
+2023-24,Proportion of clients that avoided homelessness,All clients,Total,82.1,80.2,83.1,82.9,81.1,72.6,71.5,81.1,80.9
+2023-24,Number of clients that avoided homelessness,Females,0 to 9,661,"1,274",445,452,289,n.p.,n.p.,219,"3,335"
+2023-24,Number of clients that avoided homelessness,Females,10 to 14,381,593,203,177,89,n.p.,n.p.,79,"1,524"
+2023-24,Number of clients that avoided homelessness,Females,15 to 17,519,391,120,127,117,n.p.,n.p.,55,"1,338"
+2023-24,Number of clients that avoided homelessness,Females,18 to 24,953,"1,319",483,349,263,51,37,226,"3,658"
+2023-24,Number of clients that avoided homelessness,Females,25 to 34,"1,165","3,184",974,811,527,71,47,333,"7,066"
+2023-24,Number of clients that avoided homelessness,Females,35 to 44,"1,142","3,330",951,837,460,63,41,259,"7,037"
+2023-24,Number of clients that avoided homelessness,Females,45 to 54,807,"2,162",616,514,294,42,27,131,"4,573"
+2023-24,Number of clients that avoided homelessness,Females,55 to 64,361,"1,114",324,312,103,28,n.p.,70,"2,322"
+2023-24,Number of clients that avoided homelessness,Females,65+,260,801,210,203,60,37,n.p.,34,"1,611"
+2023-24,Number of clients that avoided homelessness,Females,Total,"6,249","14,168","4,326","3,782","2,202",298,196,"1,406","32,464"
+2023-24,Number of clients that avoided homelessness,Males,0 to 9,687,"1,323",530,413,291,n.p.,n.p.,256,"3,492"
+2023-24,Number of clients that avoided homelessness,Males,10 to 14,355,621,229,163,94,n.p.,n.p.,54,"1,516"
+2023-24,Number of clients that avoided homelessness,Males,15 to 17,357,353,124,83,75,n.p.,n.p.,n.p.,"1,018"
+2023-24,Number of clients that avoided homelessness,Males,18 to 24,460,720,193,80,120,22,n.p.,39,"1,633"
+2023-24,Number of clients that avoided homelessness,Males,25 to 34,246,"1,458",238,164,150,27,21,20,"2,311"
+2023-24,Number of clients that avoided homelessness,Males,35 to 44,286,"1,544",303,196,142,29,31,n.p.,"2,534"
+2023-24,Number of clients that avoided homelessness,Males,45 to 54,348,"1,143",288,201,103,n.p.,20,n.p.,"2,123"
+2023-24,Number of clients that avoided homelessness,Males,55 to 64,235,804,204,160,68,26,n.p.,n.p.,"1,513"
+2023-24,Number of clients that avoided homelessness,Males,65+,162,583,156,115,42,30,n.p.,n.p.,"1,099"
+2023-24,Number of clients that avoided homelessness,Males,Total,"3,136","8,549","2,265","1,575","1,085",156,103,432,"17,239"
+2023-24,Number of clients that avoided homelessness,All clients,0 to 9,"1,348","2,597",975,865,580,n.p.,n.p.,475,"6,827"
+2023-24,Number of clients that avoided homelessness,All clients,10 to 14,736,"1,214",432,340,183,n.p.,n.p.,133,"3,040"
+2023-24,Number of clients that avoided homelessness,All clients,15 to 17,876,744,244,210,192,n.p.,n.p.,70,"2,356"
+2023-24,Number of clients that avoided homelessness,All clients,18 to 24,"1,413","2,039",676,429,383,73,46,265,"5,291"
+2023-24,Number of clients that avoided homelessness,All clients,25 to 34,"1,411","4,642","1,212",975,677,98,68,353,"9,377"
+2023-24,Number of clients that avoided homelessness,All clients,35 to 44,"1,428","4,874","1,254","1,033",602,92,72,277,"9,571"
+2023-24,Number of clients that avoided homelessness,All clients,45 to 54,"1,155","3,305",904,715,397,57,47,145,"6,696"
+2023-24,Number of clients that avoided homelessness,All clients,55 to 64,596,"1,918",528,472,171,54,25,80,"3,835"
+2023-24,Number of clients that avoided homelessness,All clients,65+,422,"1,384",366,318,102,67,n.p.,40,"2,710"
+2023-24,Number of clients that avoided homelessness,All clients,Total,"9,385","22,717","6,591","5,357","3,287",454,299,"1,838","49,703"
+2023-24,Number of At risk clients,Females,0 to 9,815,"1,541",539,573,349,n.p.,5,264,"4,085"
+2023-24,Number of At risk clients,Females,10 to 14,451,691,233,209,105,n.p.,4,96,"1,790"
+2023-24,Number of At risk clients,Females,15 to 17,674,510,161,160,138,8,15,62,"1,728"
+2023-24,Number of At risk clients,Females,18 to 24,"1,238","1,868",633,446,337,66,58,281,"4,921"
+2023-24,Number of At risk clients,Females,25 to 34,"1,400","3,997","1,216","1,001",649,89,68,413,"8,825"
+2023-24,Number of At risk clients,Females,35 to 44,"1,374","4,021","1,124","1,002",584,92,54,335,"8,570"
+2023-24,Number of At risk clients,Females,45 to 54,921,"2,535",699,603,343,54,36,164,"5,348"
+2023-24,Number of At risk clients,Females,55 to 64,416,"1,241",344,354,120,34,22,84,"2,612"
+2023-24,Number of At risk clients,Females,65+,279,889,222,224,68,41,14,39,"1,776"
+2023-24,Number of At risk clients,Females,Total,"7,568","17,293","5,171","4,572","2,693",387,276,"1,738","39,655"
+2023-24,Number of At risk clients,Males,0 to 9,821,"1,651",626,525,340,n.p.,2,307,"4,272"
+2023-24,Number of At risk clients,Males,10 to 14,404,722,262,196,116,n.p.,2,61,"1,762"
+2023-24,Number of At risk clients,Males,15 to 17,454,433,152,91,93,9,7,20,"1,259"
+2023-24,Number of At risk clients,Males,18 to 24,590,"1,033",261,102,154,37,13,43,"2,231"
+2023-24,Number of At risk clients,Males,25 to 34,323,"1,947",301,195,195,42,31,27,"3,057"
+2023-24,Number of At risk clients,Males,35 to 44,389,"2,104",388,240,188,51,43,26,"3,430"
+2023-24,Number of At risk clients,Males,45 to 54,426,"1,535",361,242,138,26,28,22,"2,779"
+2023-24,Number of At risk clients,Males,55 to 64,285,959,238,177,84,34,11,16,"1,805"
+2023-24,Number of At risk clients,Males,65+,178,647,172,124,53,38,5,6,"1,225"
+2023-24,Number of At risk clients,Males,Total,"3,870","11,031","2,761","1,892","1,361",238,142,528,"21,820"
+2023-24,Number of At risk clients,All clients,0 to 9,"1,636","3,192","1,165","1,098",689,n.p.,7,571,"8,357"
+2023-24,Number of At risk clients,All clients,10 to 14,855,"1,413",495,405,221,n.p.,6,157,"3,552"
+2023-24,Number of At risk clients,All clients,15 to 17,"1,128",943,313,251,231,17,22,82,"2,987"
+2023-24,Number of At risk clients,All clients,18 to 24,"1,828","2,901",894,548,491,103,71,324,"7,152"
+2023-24,Number of At risk clients,All clients,25 to 34,"1,723","5,944","1,517","1,196",844,131,99,440,"11,882"
+2023-24,Number of At risk clients,All clients,35 to 44,"1,763","6,125","1,512","1,242",772,143,97,361,"12,000"
+2023-24,Number of At risk clients,All clients,45 to 54,"1,347","4,070","1,060",845,481,80,64,186,"8,127"
+2023-24,Number of At risk clients,All clients,55 to 64,701,"2,200",582,531,204,68,33,100,"4,417"
+2023-24,Number of At risk clients,All clients,65+,457,"1,536",394,348,121,79,19,45,"3,001"
+2023-24,Number of At risk clients,All clients,Total,"11,438","28,324","7,932","6,464","4,054",625,418,"2,266","61,475"
+2022-23,Proportion of clients that avoided homelessness,Females,0 to 9,84.4,77.8,86.0,78.0,85.8,n.p.,n.p.,80.7,81.2
+2022-23,Proportion of clients that avoided homelessness,Females,10 to 14,84.5,83.4,85.2,85.1,87.0,n.p.,n.p.,88.1,84.7
+2022-23,Proportion of clients that avoided homelessness,Females,15 to 17,78.2,81.2,69.5,88.8,80.0,n.p.,n.p.,n.p.,78.9
+2022-23,Proportion of clients that avoided homelessness,Females,18 to 24,73.9,70.2,73.5,79.8,78.1,n.p.,n.p.,80.3,73.1
+2022-23,Proportion of clients that avoided homelessness,Females,25 to 34,82.0,77.8,77.8,78.3,79.8,71.2,n.p.,80.0,78.2
+2022-23,Proportion of clients that avoided homelessness,Females,35 to 44,86.4,79.8,79.6,82.9,82.5,n.p.,n.p.,83.9,81.4
+2022-23,Proportion of clients that avoided homelessness,Females,45 to 54,88.2,82.8,81.2,84.7,81.2,n.p.,n.p.,85.2,83.6
+2022-23,Proportion of clients that avoided homelessness,Females,55 to 64,88.4,87.6,86.2,89.6,89.8,n.p.,n.p.,n.p.,87.6
+2022-23,Proportion of clients that avoided homelessness,Females,65+,91.3,93.7,93.1,94.0,n.p.,n.p.,n.p.,n.p.,93.0
+2022-23,Proportion of clients that avoided homelessness,Females,Total,83.2,79.8,80.1,82.4,82.3,75.1,79.8,82.5,80.8
+2022-23,Proportion of clients that avoided homelessness,Males,0 to 9,82.7,78.6,83.5,78.7,82.9,n.p.,n.p.,84.3,80.8
+2022-23,Proportion of clients that avoided homelessness,Males,10 to 14,85.5,82.9,84.7,84.8,91.1,n.p.,n.p.,n.p.,84.6
+2022-23,Proportion of clients that avoided homelessness,Males,15 to 17,83.7,80.3,75.5,n.p.,n.p.,n.p.,n.p.,n.p.,81.7
+2022-23,Proportion of clients that avoided homelessness,Males,18 to 24,80.3,72.9,74.2,81.9,80.0,n.p.,n.p.,n.p.,75.6
+2022-23,Proportion of clients that avoided homelessness,Males,25 to 34,80.2,74.5,70.0,84.5,73.7,n.p.,n.p.,n.p.,74.9
+2022-23,Proportion of clients that avoided homelessness,Males,35 to 44,74.4,73.6,72.1,83.5,73.0,n.p.,n.p.,n.p.,73.7
+2022-23,Proportion of clients that avoided homelessness,Males,45 to 54,80.9,73.5,76.0,83.1,71.7,n.p.,n.p.,n.p.,75.0
+2022-23,Proportion of clients that avoided homelessness,Males,55 to 64,83.4,81.6,81.3,90.1,n.p.,n.p.,n.p.,n.p.,82.5
+2022-23,Proportion of clients that avoided homelessness,Males,65+,87.8,87.5,88.9,96.0,n.p.,n.p.,n.p.,n.p.,88.4
+2022-23,Proportion of clients that avoided homelessness,Males,Total,81.8,76.5,78.5,83.5,80.2,67.4,72.3,80.1,78.4
+2022-23,Proportion of clients that avoided homelessness,All clients,0 to 9,83.5,78.2,84.7,78.4,84.3,n.p.,n.p.,82.5,81.0
+2022-23,Proportion of clients that avoided homelessness,All clients,10 to 14,85.0,83.2,85.0,85.0,89.0,n.p.,n.p.,86.0,84.7
+2022-23,Proportion of clients that avoided homelessness,All clients,15 to 17,80.3,80.8,72.0,86.6,82.3,n.p.,n.p.,n.p.,80.0
+2022-23,Proportion of clients that avoided homelessness,All clients,18 to 24,76.0,71.2,73.7,80.3,78.7,n.p.,n.p.,80.3,73.9
+2022-23,Proportion of clients that avoided homelessness,All clients,25 to 34,81.6,76.7,76.2,79.5,78.4,69.0,73.6,79.3,77.3
+2022-23,Proportion of clients that avoided homelessness,All clients,35 to 44,83.6,77.5,77.7,83.0,80.0,73.3,82.6,82.1,79.1
+2022-23,Proportion of clients that avoided homelessness,All clients,45 to 54,85.8,79.1,79.2,84.2,78.4,74.8,n.p.,82.4,80.5
+2022-23,Proportion of clients that avoided homelessness,All clients,55 to 64,86.4,85.0,84.2,89.8,87.1,n.p.,n.p.,n.p.,85.6
+2022-23,Proportion of clients that avoided homelessness,All clients,65+,90.0,90.9,91.3,94.8,n.p.,n.p.,n.p.,n.p.,91.1
+2022-23,Proportion of clients that avoided homelessness,All clients,Total,82.7,78.5,79.6,82.8,81.6,72.5,77.5,82.0,79.9
+2022-23,Number of clients that avoided homelessness,Females,0 to 9,794,"1,119",541,429,307,n.p.,n.p.,184,"3,373"
+2022-23,Number of clients that avoided homelessness,Females,10 to 14,426,482,213,172,127,n.p.,n.p.,89,"1,518"
+2022-23,Number of clients that avoided homelessness,Females,15 to 17,590,363,146,135,120,n.p.,n.p.,36,"1,406"
+2022-23,Number of clients that avoided homelessness,Females,18 to 24,882,"1,219",461,387,268,44,27,208,"3,468"
+2022-23,Number of clients that avoided homelessness,Females,25 to 34,"1,248","3,062",790,770,506,79,63,316,"6,781"
+2022-23,Number of clients that avoided homelessness,Females,35 to 44,"1,318","2,937",752,751,467,76,68,270,"6,607"
+2022-23,Number of clients that avoided homelessness,Females,45 to 54,834,"1,918",457,450,254,48,29,127,"4,104"
+2022-23,Number of clients that avoided homelessness,Females,55 to 64,403,966,238,311,123,30,n.p.,50,"2,128"
+2022-23,Number of clients that avoided homelessness,Females,65+,284,654,149,171,45,26,26,31,"1,386"
+2022-23,Number of clients that avoided homelessness,Females,Total,"6,779","12,720","3,747","3,576","2,217",314,253,"1,311","30,771"
+2022-23,Number of clients that avoided homelessness,Males,0 to 9,847,"1,217",570,459,300,n.p.,n.p.,198,"3,591"
+2022-23,Number of clients that avoided homelessness,Males,10 to 14,402,505,205,162,133,n.p.,n.p.,40,"1,450"
+2022-23,Number of clients that avoided homelessness,Males,15 to 17,371,293,108,66,70,n.p.,n.p.,n.p.,929
+2022-23,Number of clients that avoided homelessness,Males,18 to 24,453,756,190,118,112,n.p.,n.p.,25,"1,684"
+2022-23,Number of clients that avoided homelessness,Males,25 to 34,291,"1,487",189,197,143,30,n.p.,n.p.,"2,356"
+2022-23,Number of clients that avoided homelessness,Males,35 to 44,355,"1,605",233,193,146,23,22,n.p.,"2,581"
+2022-23,Number of clients that avoided homelessness,Males,45 to 54,372,"1,132",253,202,91,29,n.p.,n.p.,"2,088"
+2022-23,Number of clients that avoided homelessness,Males,55 to 64,247,683,152,154,73,25,n.p.,n.p.,"1,344"
+2022-23,Number of clients that avoided homelessness,Males,65+,165,502,104,121,39,n.p.,n.p.,n.p.,957
+2022-23,Number of clients that avoided homelessness,Males,Total,"3,503","8,180","2,004","1,672","1,107",149,99,326,"16,980"
+2022-23,Number of clients that avoided homelessness,All clients,0 to 9,"1,641","2,336","1,111",888,607,n.p.,n.p.,382,"6,964"
+2022-23,Number of clients that avoided homelessness,All clients,10 to 14,828,987,418,334,260,n.p.,n.p.,129,"2,968"
+2022-23,Number of clients that avoided homelessness,All clients,15 to 17,961,656,254,201,190,n.p.,n.p.,52,"2,335"
+2022-23,Number of clients that avoided homelessness,All clients,18 to 24,"1,335","1,975",651,505,380,63,46,233,"5,152"
+2022-23,Number of clients that avoided homelessness,All clients,25 to 34,"1,539","4,549",979,967,649,109,81,329,"9,137"
+2022-23,Number of clients that avoided homelessness,All clients,35 to 44,"1,673","4,542",985,944,613,99,90,285,"9,188"
+2022-23,Number of clients that avoided homelessness,All clients,45 to 54,"1,206","3,050",710,652,345,77,40,136,"6,192"
+2022-23,Number of clients that avoided homelessness,All clients,55 to 64,650,"1,649",390,465,196,55,n.p.,58,"3,472"
+2022-23,Number of clients that avoided homelessness,All clients,65+,449,"1,156",253,292,84,44,32,33,"2,343"
+2022-23,Number of clients that avoided homelessness,All clients,Total,"10,282","20,900","5,751","5,248","3,324",463,352,"1,637","47,751"
+2022-23,Number of At risk clients,Females,0 to 9,941,"1,439",629,550,358,n.p.,8,228,"4,154"
+2022-23,Number of At risk clients,Females,10 to 14,504,578,250,202,146,n.p.,8,101,"1,792"
+2022-23,Number of At risk clients,Females,15 to 17,754,447,210,152,150,n.p.,17,43,"1,781"
+2022-23,Number of At risk clients,Females,18 to 24,"1,193","1,737",627,485,343,65,44,259,"4,742"
+2022-23,Number of At risk clients,Females,25 to 34,"1,522","3,934","1,015",983,634,111,85,395,"8,672"
+2022-23,Number of At risk clients,Females,35 to 44,"1,525","3,679",945,906,566,96,78,322,"8,113"
+2022-23,Number of At risk clients,Females,45 to 54,946,"2,317",563,531,313,60,37,149,"4,908"
+2022-23,Number of At risk clients,Females,55 to 64,456,"1,103",276,347,137,40,12,58,"2,428"
+2022-23,Number of At risk clients,Females,65+,311,698,160,182,48,29,28,34,"1,491"
+2022-23,Number of At risk clients,Females,Total,"8,152","15,932","4,675","4,338","2,695",418,317,"1,589","38,081"
+2022-23,Number of At risk clients,Males,0 to 9,"1,024","1,549",683,583,362,n.p.,7,235,"4,445"
+2022-23,Number of At risk clients,Males,10 to 14,470,609,242,191,146,n.p.,4,49,"1,713"
+2022-23,Number of At risk clients,Males,15 to 17,443,365,143,80,81,n.p.,6,17,"1,137"
+2022-23,Number of At risk clients,Males,18 to 24,564,"1,037",256,144,140,30,27,31,"2,228"
+2022-23,Number of At risk clients,Males,25 to 34,363,"1,995",270,233,194,47,25,20,"3,147"
+2022-23,Number of At risk clients,Males,35 to 44,477,"2,181",323,231,200,39,31,25,"3,503"
+2022-23,Number of At risk clients,Males,45 to 54,460,"1,540",333,243,127,43,19,16,"2,783"
+2022-23,Number of At risk clients,Males,55 to 64,296,837,187,171,88,32,10,10,"1,630"
+2022-23,Number of At risk clients,Males,65+,188,574,117,126,42,23,8,4,"1,082"
+2022-23,Number of At risk clients,Males,Total,"4,285","10,687","2,554","2,002","1,380",221,137,407,"21,668"
+2022-23,Number of At risk clients,All clients,0 to 9,"1,965","2,988","1,312","1,133",720,7,15,463,"8,599"
+2022-23,Number of At risk clients,All clients,10 to 14,974,"1,187",492,393,292,6,12,150,"3,505"
+2022-23,Number of At risk clients,All clients,15 to 17,"1,197",812,353,232,231,11,23,60,"2,918"
+2022-23,Number of At risk clients,All clients,18 to 24,"1,757","2,774",883,629,483,95,71,290,"6,970"
+2022-23,Number of At risk clients,All clients,25 to 34,"1,885","5,929","1,285","1,216",828,158,110,415,"11,819"
+2022-23,Number of At risk clients,All clients,35 to 44,"2,002","5,860","1,268","1,137",766,135,109,347,"11,616"
+2022-23,Number of At risk clients,All clients,45 to 54,"1,406","3,857",896,774,440,103,56,165,"7,691"
+2022-23,Number of At risk clients,All clients,55 to 64,752,"1,940",463,518,225,72,22,68,"4,058"
+2022-23,Number of At risk clients,All clients,65+,499,"1,272",277,308,90,52,36,38,"2,573"
+2022-23,Number of At risk clients,All clients,Total,"12,437","26,619","7,229","6,340","4,075",639,454,"1,996","59,749"
+2021-22,Proportion of clients that avoided homelessness,Females,0 to 9,84.2,77.9,85.8,75.3,85.5,n.p.,n.p.,80.1,81.1
+2021-22,Proportion of clients that avoided homelessness,Females,10 to 14,87.7,81.1,92.7,85.2,90.9,n.p.,n.p.,89.5,86.4
+2021-22,Proportion of clients that avoided homelessness,Females,15 to 17,71.8,73.8,75.0,82.6,83.1,n.p.,n.p.,92.6,76.1
+2021-22,Proportion of clients that avoided homelessness,Females,18 to 24,77.6,71.9,77.6,78.7,84.1,n.p.,n.p.,79.5,75.6
+2021-22,Proportion of clients that avoided homelessness,Females,25 to 34,81.4,78.1,81.7,82.1,83.4,70.7,n.p.,75.8,79.5
+2021-22,Proportion of clients that avoided homelessness,Females,35 to 44,86.6,80.3,82.0,84.2,83.6,n.p.,n.p.,80.3,82.1
+2021-22,Proportion of clients that avoided homelessness,Females,45 to 54,88.1,83.1,81.7,84.0,85.2,n.p.,n.p.,82.8,83.8
+2021-22,Proportion of clients that avoided homelessness,Females,55 to 64,92.4,85.6,91.3,88.6,92.1,n.p.,n.p.,n.p.,88.1
+2021-22,Proportion of clients that avoided homelessness,Females,65+,93.9,93.8,94.6,94.4,n.p.,n.p.,n.p.,n.p.,94.2
+2021-22,Proportion of clients that avoided homelessness,Females,Total,83.6,79.7,83.1,82.6,84.9,77.4,81.0,81.6,81.5
+2021-22,Proportion of clients that avoided homelessness,Males,0 to 9,85.6,78.2,88.4,73.7,84.2,n.p.,n.p.,81.7,81.8
+2021-22,Proportion of clients that avoided homelessness,Males,10 to 14,87.7,81.6,85.8,84.9,90.6,n.p.,n.p.,92.8,85.8
+2021-22,Proportion of clients that avoided homelessness,Males,15 to 17,79.3,76.0,79.1,n.p.,n.p.,n.p.,n.p.,91.3,79.6
+2021-22,Proportion of clients that avoided homelessness,Males,18 to 24,79.0,68.0,76.7,86.4,86.3,n.p.,n.p.,n.p.,74.4
+2021-22,Proportion of clients that avoided homelessness,Males,25 to 34,79.9,70.2,75.1,86.1,79.4,n.p.,n.p.,n.p.,73.0
+2021-22,Proportion of clients that avoided homelessness,Males,35 to 44,78.4,67.6,74.5,80.3,78.9,n.p.,n.p.,n.p.,71.0
+2021-22,Proportion of clients that avoided homelessness,Males,45 to 54,83.8,71.3,74.0,86.6,78.4,n.p.,n.p.,n.p.,75.0
+2021-22,Proportion of clients that avoided homelessness,Males,55 to 64,86.3,82.2,79.1,88.5,n.p.,n.p.,n.p.,n.p.,82.5
+2021-22,Proportion of clients that avoided homelessness,Males,65+,92.3,87.7,89.5,96.6,n.p.,n.p.,n.p.,n.p.,89.9
+2021-22,Proportion of clients that avoided homelessness,Males,Total,83.1,73.6,80.9,82.8,83.2,64.3,71.3,83.7,77.9
+2021-22,Proportion of clients that avoided homelessness,All clients,0 to 9,84.9,78.1,87.1,74.5,84.9,n.p.,n.p.,80.9,81.4
+2021-22,Proportion of clients that avoided homelessness,All clients,10 to 14,87.7,81.4,89.2,85.1,90.8,n.p.,n.p.,91.2,86.1
+2021-22,Proportion of clients that avoided homelessness,All clients,15 to 17,75.0,74.8,76.5,83.8,83.4,n.p.,n.p.,92.0,77.6
+2021-22,Proportion of clients that avoided homelessness,All clients,18 to 24,78.1,70.6,77.3,80.2,84.6,n.p.,n.p.,80.5,75.3
+2021-22,Proportion of clients that avoided homelessness,All clients,25 to 34,81.1,75.6,80.2,82.9,82.5,65.5,78.6,73.5,77.8
+2021-22,Proportion of clients that avoided homelessness,All clients,35 to 44,84.8,75.9,80.0,83.4,82.5,70.4,81.6,80.2,78.9
+2021-22,Proportion of clients that avoided homelessness,All clients,45 to 54,86.8,78.6,79.0,84.8,83.1,73.0,n.p.,79.9,80.8
+2021-22,Proportion of clients that avoided homelessness,All clients,55 to 64,90.3,84.2,86.7,88.6,87.8,n.p.,n.p.,n.p.,85.9
+2021-22,Proportion of clients that avoided homelessness,All clients,65+,93.3,91.2,92.3,95.3,94.6,n.p.,n.p.,n.p.,92.4
+2021-22,Proportion of clients that avoided homelessness,All clients,Total,83.4,77.4,82.3,82.7,84.4,72.5,77.9,82.2,80.2
+2021-22,Number of clients that avoided homelessness,Females,0 to 9,"1,005","1,224",611,427,331,n.p.,n.p.,222,"3,817"
+2021-22,Number of clients that avoided homelessness,Females,10 to 14,500,523,266,173,140,n.p.,n.p.,179,"1,783"
+2021-22,Number of clients that avoided homelessness,Females,15 to 17,416,338,189,119,148,n.p.,n.p.,113,"1,332"
+2021-22,Number of clients that avoided homelessness,Females,18 to 24,"1,073","1,455",526,410,380,49,43,198,"4,106"
+2021-22,Number of clients that avoided homelessness,Females,25 to 34,"1,384","3,174",870,857,676,82,77,310,"7,379"
+2021-22,Number of clients that avoided homelessness,Females,35 to 44,"1,456","3,142",781,829,577,77,60,248,"7,132"
+2021-22,Number of clients that avoided homelessness,Females,45 to 54,864,"2,049",472,536,310,53,n.p.,111,"4,399"
+2021-22,Number of clients that avoided homelessness,Females,55 to 64,401,954,284,273,140,41,n.p.,50,"2,141"
+2021-22,Number of clients that avoided homelessness,Females,65+,232,655,140,152,55,36,n.p.,21,"1,299"
+2021-22,Number of clients that avoided homelessness,Females,Total,"7,331","13,514","4,139","3,776","2,757",352,222,"1,452","33,388"
+2021-22,Number of clients that avoided homelessness,Males,0 to 9,989,"1,255",660,404,353,n.p.,n.p.,245,"3,911"
+2021-22,Number of clients that avoided homelessness,Males,10 to 14,463,524,248,186,155,n.p.,n.p.,193,"1,773"
+2021-22,Number of clients that avoided homelessness,Males,15 to 17,348,285,121,77,68,n.p.,n.p.,95,998
+2021-22,Number of clients that avoided homelessness,Males,18 to 24,500,655,231,114,138,n.p.,n.p.,42,"1,690"
+2021-22,Number of clients that avoided homelessness,Males,25 to 34,329,"1,284",232,223,170,30,22,n.p.,"2,296"
+2021-22,Number of clients that avoided homelessness,Males,35 to 44,359,"1,404",272,233,180,37,24,n.p.,"2,509"
+2021-22,Number of clients that avoided homelessness,Males,45 to 54,351,"1,105",225,251,131,39,n.p.,n.p.,"2,119"
+2021-22,Number of clients that avoided homelessness,Males,55 to 64,202,654,151,154,75,25,n.p.,n.p.,"1,270"
+2021-22,Number of clients that avoided homelessness,Males,65+,132,457,111,114,51,22,n.p.,n.p.,895
+2021-22,Number of clients that avoided homelessness,Males,Total,"3,673","7,623","2,251","1,756","1,321",173,92,631,"17,461"
+2021-22,Number of clients that avoided homelessness,All clients,0 to 9,"1,994","2,479","1,271",831,684,n.p.,n.p.,467,"7,728"
+2021-22,Number of clients that avoided homelessness,All clients,10 to 14,963,"1,047",514,359,295,n.p.,n.p.,372,"3,556"
+2021-22,Number of clients that avoided homelessness,All clients,15 to 17,764,623,310,196,216,n.p.,n.p.,208,"2,330"
+2021-22,Number of clients that avoided homelessness,All clients,18 to 24,"1,573","2,110",757,524,518,61,51,240,"5,796"
+2021-22,Number of clients that avoided homelessness,All clients,25 to 34,"1,713","4,458","1,102","1,080",846,112,99,328,"9,675"
+2021-22,Number of clients that avoided homelessness,All clients,35 to 44,"1,815","4,546","1,053","1,062",757,114,84,263,"9,641"
+2021-22,Number of clients that avoided homelessness,All clients,45 to 54,"1,215","3,154",697,787,441,92,28,123,"6,518"
+2021-22,Number of clients that avoided homelessness,All clients,55 to 64,603,"1,608",435,427,215,66,n.p.,58,"3,411"
+2021-22,Number of clients that avoided homelessness,All clients,65+,364,"1,112",251,266,106,58,n.p.,24,"2,194"
+2021-22,Number of clients that avoided homelessness,All clients,Total,"11,004","21,137","6,390","5,532","4,078",525,314,"2,083","50,849"
+2021-22,Number of At risk clients,Females,0 to 9,"1,193","1,572",712,567,387,2,4,277,"4,709"
+2021-22,Number of At risk clients,Females,10 to 14,570,645,287,203,154,2,4,200,"2,064"
+2021-22,Number of At risk clients,Females,15 to 17,579,458,252,144,178,12,8,122,"1,751"
+2021-22,Number of At risk clients,Females,18 to 24,"1,382","2,024",678,521,452,72,58,249,"5,430"
+2021-22,Number of At risk clients,Females,25 to 34,"1,700","4,066","1,065","1,044",811,116,93,409,"9,281"
+2021-22,Number of At risk clients,Females,35 to 44,"1,682","3,912",952,984,690,98,69,309,"8,683"
+2021-22,Number of At risk clients,Females,45 to 54,981,"2,465",578,638,364,70,20,134,"5,247"
+2021-22,Number of At risk clients,Females,55 to 64,434,"1,114",311,308,152,47,9,58,"2,431"
+2021-22,Number of At risk clients,Females,65+,247,698,148,161,58,36,9,22,"1,379"
+2021-22,Number of At risk clients,Females,Total,"8,768","16,954","4,983","4,570","3,246",455,274,"1,780","40,975"
+2021-22,Number of At risk clients,Males,0 to 9,"1,156","1,604",747,548,419,6,7,300,"4,783"
+2021-22,Number of At risk clients,Males,10 to 14,528,642,289,219,171,3,6,208,"2,066"
+2021-22,Number of At risk clients,Males,15 to 17,439,375,153,90,81,4,7,104,"1,253"
+2021-22,Number of At risk clients,Males,18 to 24,633,963,301,132,160,24,12,49,"2,272"
+2021-22,Number of At risk clients,Males,25 to 34,412,"1,830",309,259,214,55,33,37,"3,147"
+2021-22,Number of At risk clients,Males,35 to 44,458,"2,077",365,290,228,64,34,19,"3,535"
+2021-22,Number of At risk clients,Males,45 to 54,419,"1,549",304,290,167,56,19,20,"2,824"
+2021-22,Number of At risk clients,Males,55 to 64,234,796,191,174,93,31,6,13,"1,539"
+2021-22,Number of At risk clients,Males,65+,143,521,124,118,54,26,5,4,996
+2021-22,Number of At risk clients,Males,Total,"4,422","10,357","2,783","2,120","1,587",269,129,754,"22,415"
+2021-22,Number of At risk clients,All clients,0 to 9,"2,349","3,176","1,459","1,115",806,8,11,577,"9,492"
+2021-22,Number of At risk clients,All clients,10 to 14,"1,098","1,287",576,422,325,5,10,408,"4,130"
+2021-22,Number of At risk clients,All clients,15 to 17,"1,018",833,405,234,259,16,15,226,"3,004"
+2021-22,Number of At risk clients,All clients,18 to 24,"2,015","2,987",979,653,612,96,70,298,"7,702"
+2021-22,Number of At risk clients,All clients,25 to 34,"2,112","5,896","1,374","1,303","1,025",171,126,446,"12,428"
+2021-22,Number of At risk clients,All clients,35 to 44,"2,140","5,989","1,317","1,274",918,162,103,328,"12,218"
+2021-22,Number of At risk clients,All clients,45 to 54,"1,400","4,014",882,928,531,126,39,154,"8,071"
+2021-22,Number of At risk clients,All clients,55 to 64,668,"1,910",502,482,245,78,15,71,"3,970"
+2021-22,Number of At risk clients,All clients,65+,390,"1,219",272,279,112,62,14,26,"2,375"
+2021-22,Number of At risk clients,All clients,Total,"13,190","27,311","7,766","6,690","4,833",724,403,"2,534","63,390"
+2020-21,Proportion of clients that avoided homelessness,Females,0 to 9,86.0,80.0,84.7,80.3,87.9,n.p.,n.p.,74.9,82.3
+2020-21,Proportion of clients that avoided homelessness,Females,10 to 14,82.8,81.5,86.3,83.4,87.8,n.p.,n.p.,82.9,83.3
+2020-21,Proportion of clients that avoided homelessness,Females,15 to 17,73.4,73.9,78.1,75.7,83.1,n.p.,n.p.,87.1,75.3
+2020-21,Proportion of clients that avoided homelessness,Females,18 to 24,75.4,69.4,76.7,75.2,80.3,n.p.,n.p.,78.0,73.1
+2020-21,Proportion of clients that avoided homelessness,Females,25 to 34,82.6,77.1,76.3,78.4,80.7,73.2,72.1,77.9,77.9
+2020-21,Proportion of clients that avoided homelessness,Females,35 to 44,84.7,80.1,78.7,80.4,81.3,n.p.,n.p.,79.3,80.5
+2020-21,Proportion of clients that avoided homelessness,Females,45 to 54,88.8,84.4,82.4,82.4,83.2,n.p.,n.p.,82.8,84.2
+2020-21,Proportion of clients that avoided homelessness,Females,55 to 64,88.3,87.8,87.2,88.0,n.p.,n.p.,n.p.,n.p.,87.7
+2020-21,Proportion of clients that avoided homelessness,Females,65+,92.1,92.8,89.6,90.3,n.p.,n.p.,n.p.,n.p.,91.8
+2020-21,Proportion of clients that avoided homelessness,Females,Total,82.7,79.4,80.3,80.4,83.0,74.9,75.4,79.3,80.2
+2020-21,Proportion of clients that avoided homelessness,Males,0 to 9,85.4,79.1,83.6,78.4,86.9,n.p.,n.p.,79.3,81.7
+2020-21,Proportion of clients that avoided homelessness,Males,10 to 14,86.8,85.7,88.1,79.5,88.6,n.p.,n.p.,n.p.,86.1
+2020-21,Proportion of clients that avoided homelessness,Males,15 to 17,76.0,79.1,76.8,80.5,n.p.,n.p.,n.p.,n.p.,78.1
+2020-21,Proportion of clients that avoided homelessness,Males,18 to 24,76.1,68.3,79.9,79.9,78.8,n.p.,n.p.,n.p.,73.3
+2020-21,Proportion of clients that avoided homelessness,Males,25 to 34,77.0,68.8,73.7,75.9,75.7,n.p.,n.p.,n.p.,70.8
+2020-21,Proportion of clients that avoided homelessness,Males,35 to 44,78.0,66.8,71.3,82.6,70.9,n.p.,n.p.,n.p.,70.1
+2020-21,Proportion of clients that avoided homelessness,Males,45 to 54,84.3,68.8,78.4,81.3,68.2,n.p.,n.p.,n.p.,73.3
+2020-21,Proportion of clients that avoided homelessness,Males,55 to 64,88.9,79.3,79.6,92.7,n.p.,n.p.,n.p.,n.p.,82.9
+2020-21,Proportion of clients that avoided homelessness,Males,65+,89.4,88.6,n.p.,93.7,n.p.,n.p.,n.p.,n.p.,88.3
+2020-21,Proportion of clients that avoided homelessness,Males,Total,81.9,73.0,80.0,81.3,80.2,67.8,75.7,77.4,76.9
+2020-21,Proportion of clients that avoided homelessness,All clients,0 to 9,85.7,79.5,84.1,79.4,87.3,n.p.,n.p.,77.3,82.0
+2020-21,Proportion of clients that avoided homelessness,All clients,10 to 14,84.7,83.6,87.2,81.7,88.2,n.p.,n.p.,85.8,84.7
+2020-21,Proportion of clients that avoided homelessness,All clients,15 to 17,74.5,76.0,77.6,77.6,83.6,n.p.,n.p.,88.5,76.4
+2020-21,Proportion of clients that avoided homelessness,All clients,18 to 24,75.6,69.0,77.7,76.4,79.9,65.6,n.p.,77.2,73.2
+2020-21,Proportion of clients that avoided homelessness,All clients,25 to 34,81.5,74.4,75.7,77.9,79.5,68.5,72.0,75.2,76.0
+2020-21,Proportion of clients that avoided homelessness,All clients,35 to 44,83.0,75.3,76.8,80.9,78.6,71.1,n.p.,78.0,77.4
+2020-21,Proportion of clients that avoided homelessness,All clients,45 to 54,87.4,78.6,81.1,82.0,78.7,75.0,n.p.,79.0,80.4
+2020-21,Proportion of clients that avoided homelessness,All clients,55 to 64,88.6,84.4,84.5,89.8,88.1,n.p.,n.p.,n.p.,85.8
+2020-21,Proportion of clients that avoided homelessness,All clients,65+,91.1,91.1,85.7,91.8,n.p.,n.p.,n.p.,n.p.,90.3
+2020-21,Proportion of clients that avoided homelessness,All clients,Total,82.4,77.0,80.2,80.7,82.0,72.1,75.5,78.7,79.0
+2020-21,Number of clients that avoided homelessness,Females,0 to 9,985,"1,335",618,465,283,n.p.,22,206,"3,907"
+2020-21,Number of clients that avoided homelessness,Females,10 to 14,510,492,276,216,115,n.p.,n.p.,107,"1,722"
+2020-21,Number of clients that avoided homelessness,Females,15 to 17,502,396,207,134,113,n.p.,n.p.,88,"1,459"
+2020-21,Number of clients that avoided homelessness,Females,18 to 24,"1,140","1,418",554,375,338,55,47,220,"4,117"
+2020-21,Number of clients that avoided homelessness,Females,25 to 34,"1,386","3,065",814,756,538,82,80,307,"6,977"
+2020-21,Number of clients that avoided homelessness,Females,35 to 44,"1,331","2,858",727,673,475,63,51,245,"6,374"
+2020-21,Number of clients that avoided homelessness,Females,45 to 54,897,"1,953",445,434,252,40,31,130,"4,157"
+2020-21,Number of clients that avoided homelessness,Females,55 to 64,364,905,224,250,83,36,n.p.,53,"1,919"
+2020-21,Number of clients that avoided homelessness,Females,65+,210,545,103,131,42,25,n.p.,n.p.,"1,081"
+2020-21,Number of clients that avoided homelessness,Females,Total,"7,325","12,967","3,968","3,434","2,239",313,269,"1,372","31,713"
+2020-21,Number of clients that avoided homelessness,Males,0 to 9,"1,049","1,361",656,454,344,n.p.,n.p.,257,"4,133"
+2020-21,Number of clients that avoided homelessness,Males,10 to 14,494,528,296,159,117,n.p.,n.p.,81,"1,681"
+2020-21,Number of clients that avoided homelessness,Males,15 to 17,349,302,129,91,65,n.p.,n.p.,43,986
+2020-21,Number of clients that avoided homelessness,Males,18 to 24,580,732,239,139,134,25,n.p.,40,"1,895"
+2020-21,Number of clients that avoided homelessness,Males,25 to 34,334,"1,335",207,195,153,29,23,27,"2,298"
+2020-21,Number of clients that avoided homelessness,Males,35 to 44,393,"1,313",234,232,146,33,27,24,"2,389"
+2020-21,Number of clients that avoided homelessness,Males,45 to 54,381,931,214,217,88,38,21,24,"1,906"
+2020-21,Number of clients that avoided homelessness,Males,55 to 64,232,543,109,165,57,24,n.p.,n.p.,"1,157"
+2020-21,Number of clients that avoided homelessness,Males,65+,127,367,77,104,25,n.p.,n.p.,n.p.,724
+2020-21,Number of clients that avoided homelessness,Males,Total,"3,939","7,412","2,161","1,756","1,129",179,128,516,"17,169"
+2020-21,Number of clients that avoided homelessness,All clients,0 to 9,"2,034","2,696","1,274",919,627,n.p.,39,463,"8,040"
+2020-21,Number of clients that avoided homelessness,All clients,10 to 14,"1,004","1,020",572,375,232,n.p.,n.p.,188,"3,403"
+2020-21,Number of clients that avoided homelessness,All clients,15 to 17,851,698,336,225,178,n.p.,22,131,"2,445"
+2020-21,Number of clients that avoided homelessness,All clients,18 to 24,"1,720","2,150",793,514,472,80,55,260,"6,012"
+2020-21,Number of clients that avoided homelessness,All clients,25 to 34,"1,720","4,400","1,021",951,691,111,103,334,"9,275"
+2020-21,Number of clients that avoided homelessness,All clients,35 to 44,"1,724","4,171",961,905,621,96,78,269,"8,763"
+2020-21,Number of clients that avoided homelessness,All clients,45 to 54,"1,278","2,884",659,651,340,78,52,154,"6,063"
+2020-21,Number of clients that avoided homelessness,All clients,55 to 64,596,"1,448",333,415,140,60,20,69,"3,076"
+2020-21,Number of clients that avoided homelessness,All clients,65+,337,912,180,235,67,41,n.p.,20,"1,805"
+2020-21,Number of clients that avoided homelessness,All clients,Total,"11,264","20,379","6,129","5,190","3,368",492,397,"1,888","48,882"
+2020-21,Number of At risk clients,Females,0 to 9,"1,146","1,669",730,579,322,3,22,275,"4,746"
+2020-21,Number of At risk clients,Females,10 to 14,616,604,320,259,131,2,7,129,"2,067"
+2020-21,Number of At risk clients,Females,15 to 17,684,536,265,177,136,14,29,101,"1,937"
+2020-21,Number of At risk clients,Females,18 to 24,"1,512","2,044",722,499,421,86,68,282,"5,629"
+2020-21,Number of At risk clients,Females,25 to 34,"1,677","3,977","1,067",964,667,112,111,394,"8,952"
+2020-21,Number of At risk clients,Females,35 to 44,"1,572","3,569",924,837,584,82,59,309,"7,919"
+2020-21,Number of At risk clients,Females,45 to 54,"1,010","2,313",540,527,303,48,44,157,"4,939"
+2020-21,Number of At risk clients,Females,55 to 64,412,"1,031",257,284,91,44,7,62,"2,187"
+2020-21,Number of At risk clients,Females,65+,228,587,115,145,44,27,10,22,"1,178"
+2020-21,Number of At risk clients,Females,Total,"8,857","16,330","4,940","4,271","2,699",418,357,"1,731","39,554"
+2020-21,Number of At risk clients,Males,0 to 9,"1,228","1,721",785,579,396,6,21,324,"5,058"
+2020-21,Number of At risk clients,Males,10 to 14,569,616,336,200,132,4,6,90,"1,952"
+2020-21,Number of At risk clients,Males,15 to 17,459,382,168,113,77,11,7,47,"1,263"
+2020-21,Number of At risk clients,Males,18 to 24,762,"1,072",299,174,170,36,16,55,"2,584"
+2020-21,Number of At risk clients,Males,25 to 34,434,"1,939",281,257,202,50,32,50,"3,245"
+2020-21,Number of At risk clients,Males,35 to 44,504,"1,967",328,281,206,53,34,36,"3,409"
+2020-21,Number of At risk clients,Males,45 to 54,452,"1,354",273,267,129,56,29,38,"2,599"
+2020-21,Number of At risk clients,Males,55 to 64,261,685,137,178,68,30,16,22,"1,396"
+2020-21,Number of At risk clients,Males,65+,142,414,95,111,28,18,8,5,820
+2020-21,Number of At risk clients,Males,Total,"4,811","10,150","2,702","2,160","1,408",264,169,667,"22,326"
+2020-21,Number of At risk clients,All clients,0 to 9,"2,374","3,390","1,515","1,158",718,9,43,599,"9,804"
+2020-21,Number of At risk clients,All clients,10 to 14,"1,185","1,220",656,459,263,6,13,219,"4,019"
+2020-21,Number of At risk clients,All clients,15 to 17,"1,143",918,433,290,213,25,36,148,"3,200"
+2020-21,Number of At risk clients,All clients,18 to 24,"2,274","3,116","1,021",673,591,122,84,337,"8,213"
+2020-21,Number of At risk clients,All clients,25 to 34,"2,111","5,916","1,348","1,221",869,162,143,444,"12,197"
+2020-21,Number of At risk clients,All clients,35 to 44,"2,076","5,536","1,252","1,118",790,135,93,345,"11,328"
+2020-21,Number of At risk clients,All clients,45 to 54,"1,462","3,667",813,794,432,104,73,195,"7,538"
+2020-21,Number of At risk clients,All clients,55 to 64,673,"1,716",394,462,159,74,23,84,"3,583"
+2020-21,Number of At risk clients,All clients,65+,370,"1,001",210,256,72,45,18,27,"1,998"
+2020-21,Number of At risk clients,All clients,Total,"13,668","26,480","7,642","6,431","4,107",682,526,"2,398","61,880"
+2019-20,Proportion of clients that avoided homelessness,Females,0 to 9,87.6,82.1,79.8,79.9,87.8,n.p.,n.p.,80.0,82.7
+2019-20,Proportion of clients that avoided homelessness,Females,10 to 14,86.2,86.6,81.5,86.9,89.0,n.p.,n.p.,82.9,85.7
+2019-20,Proportion of clients that avoided homelessness,Females,15 to 17,76.2,74.6,69.7,76.1,83.6,n.p.,n.p.,n.p.,75.1
+2019-20,Proportion of clients that avoided homelessness,Females,18 to 24,80.8,74.2,73.8,76.9,77.4,n.p.,n.p.,83.3,76.2
+2019-20,Proportion of clients that avoided homelessness,Females,25 to 34,84.7,78.4,79.3,79.7,83.7,79.4,70.9,79.3,79.5
+2019-20,Proportion of clients that avoided homelessness,Females,35 to 44,86.5,81.6,80.3,82.8,83.4,n.p.,n.p.,79.3,82.2
+2019-20,Proportion of clients that avoided homelessness,Females,45 to 54,88.2,85.4,85.6,82.7,81.9,n.p.,n.p.,83.3,85.3
+2019-20,Proportion of clients that avoided homelessness,Females,55 to 64,92.6,88.2,84.0,94.4,90.3,n.p.,n.p.,n.p.,89.3
+2019-20,Proportion of clients that avoided homelessness,Females,65+,93.7,94.5,93.2,95.4,n.p.,n.p.,n.p.,n.p.,94.6
+2019-20,Proportion of clients that avoided homelessness,Females,Total,85.2,81.5,79.6,82.0,83.8,81.9,75.7,81.4,81.9
+2019-20,Proportion of clients that avoided homelessness,Males,0 to 9,86.5,82.1,84.3,80.0,87.2,n.p.,n.p.,78.4,83.1
+2019-20,Proportion of clients that avoided homelessness,Males,10 to 14,88.5,85.5,83.7,89.3,90.2,n.p.,n.p.,n.p.,86.9
+2019-20,Proportion of clients that avoided homelessness,Males,15 to 17,84.8,82.1,76.6,79.8,82.4,n.p.,n.p.,n.p.,81.7
+2019-20,Proportion of clients that avoided homelessness,Males,18 to 24,78.2,76.9,70.9,80.8,78.4,n.p.,n.p.,n.p.,76.2
+2019-20,Proportion of clients that avoided homelessness,Males,25 to 34,81.5,74.8,67.1,77.2,76.7,n.p.,n.p.,n.p.,74.6
+2019-20,Proportion of clients that avoided homelessness,Males,35 to 44,77.8,70.5,74.0,84.5,69.1,n.p.,n.p.,n.p.,72.6
+2019-20,Proportion of clients that avoided homelessness,Males,45 to 54,82.5,74.5,71.6,82.8,76.5,n.p.,n.p.,n.p.,76.3
+2019-20,Proportion of clients that avoided homelessness,Males,55 to 64,87.6,83.5,88.5,92.4,n.p.,n.p.,n.p.,n.p.,85.6
+2019-20,Proportion of clients that avoided homelessness,Males,65+,90.0,92.5,n.p.,91.5,n.p.,n.p.,n.p.,n.p.,91.6
+2019-20,Proportion of clients that avoided homelessness,Males,Total,83.6,78.2,77.9,83.2,81.1,72.5,78.5,81.5,79.5
+2019-20,Proportion of clients that avoided homelessness,All clients,0 to 9,87.0,82.1,82.0,80.0,87.5,n.p.,n.p.,79.2,82.9
+2019-20,Proportion of clients that avoided homelessness,All clients,10 to 14,87.3,86.0,82.6,87.9,89.6,n.p.,n.p.,88.2,86.3
+2019-20,Proportion of clients that avoided homelessness,All clients,15 to 17,79.9,78.1,72.4,77.4,83.1,n.p.,n.p.,83.5,77.9
+2019-20,Proportion of clients that avoided homelessness,All clients,18 to 24,79.9,75.1,72.9,77.9,77.7,75.2,n.p.,81.9,76.2
+2019-20,Proportion of clients that avoided homelessness,All clients,25 to 34,84.0,77.3,76.5,79.2,82.2,76.0,69.9,79.5,78.2
+2019-20,Proportion of clients that avoided homelessness,All clients,35 to 44,84.4,77.9,78.3,83.2,80.0,76.4,82.6,79.9,79.3
+2019-20,Proportion of clients that avoided homelessness,All clients,45 to 54,86.3,81.4,80.8,82.8,80.4,82.5,n.p.,82.6,82.1
+2019-20,Proportion of clients that avoided homelessness,All clients,55 to 64,90.7,86.3,86.1,93.6,86.7,n.p.,n.p.,n.p.,87.8
+2019-20,Proportion of clients that avoided homelessness,All clients,65+,92.3,93.6,90.1,93.6,n.p.,n.p.,n.p.,n.p.,93.3
+2019-20,Proportion of clients that avoided homelessness,All clients,Total,84.6,80.3,79.0,82.4,82.9,78.6,76.6,81.5,81.0
+2019-20,Number of clients that avoided homelessness,Females,0 to 9,"1,063","1,837",708,514,339,n.p.,n.p.,244,"4,694"
+2019-20,Number of clients that avoided homelessness,Females,10 to 14,549,745,246,239,129,n.p.,n.p.,92,"2,003"
+2019-20,Number of clients that avoided homelessness,Females,15 to 17,566,440,184,153,117,n.p.,n.p.,53,"1,526"
+2019-20,Number of clients that avoided homelessness,Females,18 to 24,"1,248","1,738",521,417,352,69,39,235,"4,582"
+2019-20,Number of clients that avoided homelessness,Females,25 to 34,"1,523","3,609",849,802,584,104,83,334,"7,797"
+2019-20,Number of clients that avoided homelessness,Females,35 to 44,"1,435","3,491",703,712,476,78,84,245,"7,174"
+2019-20,Number of clients that avoided homelessness,Females,45 to 54,960,"2,439",492,459,227,57,33,120,"4,770"
+2019-20,Number of clients that avoided homelessness,Females,55 to 64,424,"1,130",184,271,102,39,n.p.,61,"2,216"
+2019-20,Number of clients that avoided homelessness,Females,65+,208,734,96,125,41,23,n.p.,n.p.,"1,250"
+2019-20,Number of clients that avoided homelessness,Females,Total,"7,976","16,163","3,983","3,692","2,367",381,283,"1,400","36,012"
+2019-20,Number of clients that avoided homelessness,Males,0 to 9,"1,079","1,845",703,573,335,n.p.,n.p.,229,"4,766"
+2019-20,Number of clients that avoided homelessness,Males,10 to 14,471,783,251,191,120,n.p.,n.p.,65,"1,881"
+2019-20,Number of clients that avoided homelessness,Males,15 to 17,485,436,131,83,84,n.p.,n.p.,33,"1,254"
+2019-20,Number of clients that avoided homelessness,Males,18 to 24,596,891,244,139,145,n.p.,n.p.,41,"2,066"
+2019-20,Number of clients that avoided homelessness,Males,25 to 34,369,"1,494",216,207,145,35,26,39,"2,508"
+2019-20,Number of clients that avoided homelessness,Males,35 to 44,418,"1,539",299,272,123,42,30,38,"2,738"
+2019-20,Number of clients that avoided homelessness,Males,45 to 54,443,"1,248",217,251,88,42,29,27,"2,331"
+2019-20,Number of clients that avoided homelessness,Males,55 to 64,240,741,162,195,41,n.p.,n.p.,n.p.,"1,426"
+2019-20,Number of clients that avoided homelessness,Males,65+,126,553,68,108,26,23,n.p.,n.p.,925
+2019-20,Number of clients that avoided homelessness,Males,Total,"4,227","9,530","2,291","2,019","1,107",185,150,495,"19,895"
+2019-20,Number of clients that avoided homelessness,All clients,0 to 9,"2,142","3,682","1,411","1,087",674,n.p.,n.p.,473,"9,460"
+2019-20,Number of clients that avoided homelessness,All clients,10 to 14,"1,020","1,528",497,430,249,n.p.,n.p.,157,"3,884"
+2019-20,Number of clients that avoided homelessness,All clients,15 to 17,"1,051",876,315,236,201,n.p.,20,86,"2,780"
+2019-20,Number of clients that avoided homelessness,All clients,18 to 24,"1,844","2,629",765,556,497,85,49,276,"6,648"
+2019-20,Number of clients that avoided homelessness,All clients,25 to 34,"1,892","5,103","1,065","1,009",729,139,109,373,"10,305"
+2019-20,Number of clients that avoided homelessness,All clients,35 to 44,"1,853","5,030","1,002",984,599,120,114,283,"9,912"
+2019-20,Number of clients that avoided homelessness,All clients,45 to 54,"1,403","3,687",709,710,315,99,62,147,"7,101"
+2019-20,Number of clients that avoided homelessness,All clients,55 to 64,664,"1,871",346,466,143,58,29,74,"3,642"
+2019-20,Number of clients that avoided homelessness,All clients,65+,334,"1,287",164,233,67,46,21,26,"2,175"
+2019-20,Number of clients that avoided homelessness,All clients,Total,"12,203","25,693","6,274","5,711","3,474",566,433,"1,895","55,907"
+2019-20,Number of At risk clients,Females,0 to 9,"1,213","2,237",887,643,386,1,7,305,"5,673"
+2019-20,Number of At risk clients,Females,10 to 14,637,860,302,275,145,2,6,111,"2,338"
+2019-20,Number of At risk clients,Females,15 to 17,743,590,264,201,140,15,20,64,"2,032"
+2019-20,Number of At risk clients,Females,18 to 24,"1,545","2,343",706,542,455,88,71,282,"6,014"
+2019-20,Number of At risk clients,Females,25 to 34,"1,799","4,602","1,070","1,006",698,131,117,421,"9,808"
+2019-20,Number of At risk clients,Females,35 to 44,"1,659","4,277",876,860,571,93,97,309,"8,724"
+2019-20,Number of At risk clients,Females,45 to 54,"1,089","2,855",575,555,277,68,35,144,"5,592"
+2019-20,Number of At risk clients,Females,55 to 64,458,"1,281",219,287,113,44,13,67,"2,481"
+2019-20,Number of At risk clients,Females,65+,222,777,103,131,41,23,8,16,"1,321"
+2019-20,Number of At risk clients,Females,Total,"9,365","19,822","5,002","4,500","2,826",465,374,"1,719","43,983"
+2019-20,Number of At risk clients,Males,0 to 9,"1,248","2,247",834,716,384,5,14,292,"5,735"
+2019-20,Number of At risk clients,Males,10 to 14,532,916,300,214,133,2,5,67,"2,165"
+2019-20,Number of At risk clients,Males,15 to 17,572,531,171,104,102,8,10,39,"1,535"
+2019-20,Number of At risk clients,Males,18 to 24,762,"1,159",344,172,185,25,14,55,"2,713"
+2019-20,Number of At risk clients,Males,25 to 34,453,"1,997",322,268,189,52,39,48,"3,362"
+2019-20,Number of At risk clients,Males,35 to 44,537,"2,182",404,322,178,64,41,45,"3,770"
+2019-20,Number of At risk clients,Males,45 to 54,537,"1,675",303,303,115,52,36,34,"3,054"
+2019-20,Number of At risk clients,Males,55 to 64,274,887,183,211,52,23,18,16,"1,666"
+2019-20,Number of At risk clients,Males,65+,140,598,79,118,27,24,14,11,"1,010"
+2019-20,Number of At risk clients,Males,Total,"5,055","12,192","2,940","2,428","1,365",255,191,607,"25,010"
+2019-20,Number of At risk clients,All clients,0 to 9,"2,461","4,484","1,721","1,359",770,6,21,597,"11,408"
+2019-20,Number of At risk clients,All clients,10 to 14,"1,169","1,776",602,489,278,4,11,178,"4,503"
+2019-20,Number of At risk clients,All clients,15 to 17,"1,315","1,121",435,305,242,23,30,103,"3,567"
+2019-20,Number of At risk clients,All clients,18 to 24,"2,307","3,502","1,050",714,640,113,85,337,"8,727"
+2019-20,Number of At risk clients,All clients,25 to 34,"2,252","6,599","1,392","1,274",887,183,156,469,"13,170"
+2019-20,Number of At risk clients,All clients,35 to 44,"2,196","6,459","1,280","1,182",749,157,138,354,"12,494"
+2019-20,Number of At risk clients,All clients,45 to 54,"1,626","4,530",878,858,392,120,71,178,"8,646"
+2019-20,Number of At risk clients,All clients,55 to 64,732,"2,168",402,498,165,67,31,83,"4,147"
+2019-20,Number of At risk clients,All clients,65+,362,"1,375",182,249,68,47,22,27,"2,331"
+2019-20,Number of At risk clients,All clients,Total,"14,420","32,014","7,942","6,928","4,191",720,565,"2,326","68,993"
+2018-19,Proportion of clients that avoided homelessness,Females,0 to 9,83.1,79.9,81.0,77.2,86.6,n.p.,n.p.,84.3,81.0
+2018-19,Proportion of clients that avoided homelessness,Females,10 to 14,86.7,83.5,78.7,79.7,89.5,n.p.,n.p.,87.0,83.5
+2018-19,Proportion of clients that avoided homelessness,Females,15 to 17,78.0,76.3,76.4,66.7,74.5,n.p.,n.p.,n.p.,76.0
+2018-19,Proportion of clients that avoided homelessness,Females,18 to 24,78.7,71.5,76.5,77.6,79.1,n.p.,n.p.,78.7,74.6
+2018-19,Proportion of clients that avoided homelessness,Females,25 to 34,82.8,77.5,78.3,79.6,82.3,82.1,75.7,74.0,78.5
+2018-19,Proportion of clients that avoided homelessness,Females,35 to 44,85.1,80.3,79.4,83.3,86.9,80.0,n.p.,81.9,81.4
+2018-19,Proportion of clients that avoided homelessness,Females,45 to 54,89.0,84.1,81.6,83.6,84.9,n.p.,n.p.,79.6,84.6
+2018-19,Proportion of clients that avoided homelessness,Females,55 to 64,91.7,89.2,84.5,91.4,n.p.,n.p.,n.p.,n.p.,89.3
+2018-19,Proportion of clients that avoided homelessness,Females,65+,95.5,93.8,95.7,96.3,n.p.,n.p.,n.p.,n.p.,94.4
+2018-19,Proportion of clients that avoided homelessness,Females,Total,83.8,80.1,79.7,80.8,84.3,80.6,75.2,80.9,80.8
+2018-19,Proportion of clients that avoided homelessness,Males,0 to 9,83.9,80.2,80.3,74.1,89.9,n.p.,n.p.,84.6,81.0
+2018-19,Proportion of clients that avoided homelessness,Males,10 to 14,87.9,85.6,85.0,74.5,85.5,n.p.,n.p.,n.p.,85.0
+2018-19,Proportion of clients that avoided homelessness,Males,15 to 17,82.3,83.3,75.1,n.p.,80.2,n.p.,n.p.,n.p.,80.7
+2018-19,Proportion of clients that avoided homelessness,Males,18 to 24,78.3,73.0,74.7,80.6,75.3,n.p.,n.p.,n.p.,74.6
+2018-19,Proportion of clients that avoided homelessness,Males,25 to 34,79.6,71.1,70.8,80.4,76.2,n.p.,n.p.,n.p.,72.5
+2018-19,Proportion of clients that avoided homelessness,Males,35 to 44,77.2,69.8,73.7,78.8,69.9,n.p.,n.p.,n.p.,71.4
+2018-19,Proportion of clients that avoided homelessness,Males,45 to 54,85.0,77.7,81.0,87.4,75.2,n.p.,n.p.,n.p.,79.8
+2018-19,Proportion of clients that avoided homelessness,Males,55 to 64,88.3,86.2,76.9,90.0,n.p.,n.p.,n.p.,n.p.,84.9
+2018-19,Proportion of clients that avoided homelessness,Males,65+,94.2,88.6,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,89.1
+2018-19,Proportion of clients that avoided homelessness,Males,Total,83.0,77.0,77.8,79.6,80.2,74.5,78.0,77.6,78.4
+2018-19,Proportion of clients that avoided homelessness,All clients,0 to 9,83.5,80.1,80.6,75.6,88.3,n.p.,n.p.,84.4,81.0
+2018-19,Proportion of clients that avoided homelessness,All clients,10 to 14,87.3,84.5,81.9,77.4,87.5,n.p.,n.p.,87.5,84.3
+2018-19,Proportion of clients that avoided homelessness,All clients,15 to 17,79.8,79.4,75.9,68.0,76.9,n.p.,n.p.,85.2,77.9
+2018-19,Proportion of clients that avoided homelessness,All clients,18 to 24,78.5,72.0,75.9,78.1,78.1,67.9,63.2,76.7,74.6
+2018-19,Proportion of clients that avoided homelessness,All clients,25 to 34,82.1,75.5,76.4,79.7,81.1,78.6,76.1,72.4,77.0
+2018-19,Proportion of clients that avoided homelessness,All clients,35 to 44,83.0,76.7,77.6,82.2,82.3,73.9,78.3,77.7,78.4
+2018-19,Proportion of clients that avoided homelessness,All clients,45 to 54,87.6,81.8,81.4,84.9,81.7,89.0,n.p.,79.6,82.9
+2018-19,Proportion of clients that avoided homelessness,All clients,55 to 64,90.4,87.9,81.1,90.8,89.4,n.p.,n.p.,n.p.,87.5
+2018-19,Proportion of clients that avoided homelessness,All clients,65+,95.0,91.5,89.2,95.8,n.p.,n.p.,n.p.,n.p.,92.1
+2018-19,Proportion of clients that avoided homelessness,All clients,Total,83.5,78.9,78.9,80.4,83.0,78.3,76.1,80.0,79.9
+2018-19,Number of clients that avoided homelessness,Females,0 to 9,"1,092","1,498",777,441,322,n.p.,n.p.,236,"4,361"
+2018-19,Number of clients that avoided homelessness,Females,10 to 14,539,639,281,149,111,n.p.,n.p.,100,"1,821"
+2018-19,Number of clients that avoided homelessness,Females,15 to 17,760,431,220,100,105,n.p.,n.p.,72,"1,695"
+2018-19,Number of clients that avoided homelessness,Females,18 to 24,"1,201","1,668",608,363,317,49,58,181,"4,407"
+2018-19,Number of clients that avoided homelessness,Females,25 to 34,"1,475","3,461",885,772,629,92,106,267,"7,624"
+2018-19,Number of clients that avoided homelessness,Females,35 to 44,"1,500","3,349",827,649,537,80,64,245,"7,197"
+2018-19,Number of clients that avoided homelessness,Females,45 to 54,968,"2,282",493,387,259,63,53,113,"4,597"
+2018-19,Number of clients that avoided homelessness,Females,55 to 64,466,"1,004",223,192,95,28,23,68,"2,089"
+2018-19,Number of clients that avoided homelessness,Females,65+,235,682,110,104,37,21,n.p.,n.p.,"1,217"
+2018-19,Number of clients that avoided homelessness,Females,Total,"8,236","15,014","4,424","3,157","2,412",353,349,"1,298","35,008"
+2018-19,Number of clients that avoided homelessness,Males,0 to 9,"1,027","1,576",821,441,347,n.p.,n.p.,220,"4,437"
+2018-19,Number of clients that avoided homelessness,Males,10 to 14,558,646,306,114,106,n.p.,n.p.,61,"1,792"
+2018-19,Number of clients that avoided homelessness,Males,15 to 17,585,365,157,49,81,n.p.,n.p.,26,"1,276"
+2018-19,Number of clients that avoided homelessness,Males,18 to 24,600,863,280,83,110,25,26,36,"2,014"
+2018-19,Number of clients that avoided homelessness,Males,25 to 34,402,"1,377",277,156,141,44,31,27,"2,436"
+2018-19,Number of clients that avoided homelessness,Males,35 to 44,473,"1,490",353,197,158,36,37,24,"2,747"
+2018-19,Number of clients that avoided homelessness,Males,45 to 54,464,"1,184",298,202,115,42,23,35,"2,348"
+2018-19,Number of clients that avoided homelessness,Males,55 to 64,288,744,163,135,48,26,n.p.,n.p.,"1,420"
+2018-19,Number of clients that avoided homelessness,Males,65+,180,512,80,77,n.p.,n.p.,n.p.,n.p.,896
+2018-19,Number of clients that avoided homelessness,Males,Total,"4,577","8,757","2,735","1,454","1,124",202,160,456,"19,366"
+2018-19,Number of clients that avoided homelessness,All clients,0 to 9,"2,119","3,074","1,598",882,669,n.p.,29,456,"8,798"
+2018-19,Number of clients that avoided homelessness,All clients,10 to 14,"1,097","1,285",587,263,217,n.p.,n.p.,161,"3,613"
+2018-19,Number of clients that avoided homelessness,All clients,15 to 17,"1,345",796,377,149,186,n.p.,21,98,"2,971"
+2018-19,Number of clients that avoided homelessness,All clients,18 to 24,"1,801","2,531",888,446,427,74,84,217,"6,421"
+2018-19,Number of clients that avoided homelessness,All clients,25 to 34,"1,877","4,838","1,162",928,770,136,137,294,"10,060"
+2018-19,Number of clients that avoided homelessness,All clients,35 to 44,"1,973","4,839","1,180",846,695,116,101,269,"9,944"
+2018-19,Number of clients that avoided homelessness,All clients,45 to 54,"1,432","3,466",791,589,374,105,76,148,"6,945"
+2018-19,Number of clients that avoided homelessness,All clients,55 to 64,754,"1,748",386,327,143,54,32,78,"3,509"
+2018-19,Number of clients that avoided homelessness,All clients,65+,415,"1,194",190,181,55,32,20,33,"2,113"
+2018-19,Number of clients that avoided homelessness,All clients,Total,"12,813","23,771","7,159","4,611","3,536",555,509,"1,754","54,374"
+2018-19,Number of At risk clients,Females,0 to 9,"1,314","1,874",959,571,372,5,19,280,"5,387"
+2018-19,Number of At risk clients,Females,10 to 14,622,765,357,187,124,7,4,115,"2,180"
+2018-19,Number of At risk clients,Females,15 to 17,974,565,288,150,141,16,17,82,"2,231"
+2018-19,Number of At risk clients,Females,18 to 24,"1,527","2,332",795,468,401,70,99,230,"5,908"
+2018-19,Number of At risk clients,Females,25 to 34,"1,782","4,467","1,130",970,764,112,140,361,"9,712"
+2018-19,Number of At risk clients,Females,35 to 44,"1,763","4,171","1,042",779,618,100,83,299,"8,838"
+2018-19,Number of At risk clients,Females,45 to 54,"1,088","2,713",604,463,305,70,60,142,"5,435"
+2018-19,Number of At risk clients,Females,55 to 64,508,"1,126",264,210,99,35,28,76,"2,340"
+2018-19,Number of At risk clients,Females,65+,246,727,115,108,37,23,14,19,"1,289"
+2018-19,Number of At risk clients,Females,Total,"9,824","18,740","5,554","3,906","2,861",438,464,"1,604","43,320"
+2018-19,Number of At risk clients,Males,0 to 9,"1,224","1,966","1,023",595,386,10,16,260,"5,479"
+2018-19,Number of At risk clients,Males,10 to 14,635,755,360,153,124,5,6,69,"2,107"
+2018-19,Number of At risk clients,Males,15 to 17,711,438,209,69,101,8,12,33,"1,581"
+2018-19,Number of At risk clients,Males,18 to 24,766,"1,183",375,103,146,39,34,53,"2,701"
+2018-19,Number of At risk clients,Males,25 to 34,505,"1,938",391,194,185,61,40,45,"3,361"
+2018-19,Number of At risk clients,Males,35 to 44,613,"2,134",479,250,226,57,46,47,"3,847"
+2018-19,Number of At risk clients,Males,45 to 54,546,"1,523",368,231,153,48,30,44,"2,944"
+2018-19,Number of At risk clients,Males,55 to 64,326,863,212,150,61,31,13,17,"1,672"
+2018-19,Number of At risk clients,Males,65+,191,578,98,81,19,12,8,20,"1,006"
+2018-19,Number of At risk clients,Males,Total,"5,517","11,378","3,515","1,826","1,401",271,205,588,"24,698"
+2018-19,Number of At risk clients,All clients,0 to 9,"2,538","3,840","1,982","1,166",758,15,35,540,"10,866"
+2018-19,Number of At risk clients,All clients,10 to 14,"1,257","1,520",717,340,248,12,10,184,"4,287"
+2018-19,Number of At risk clients,All clients,15 to 17,"1,685","1,003",497,219,242,24,29,115,"3,812"
+2018-19,Number of At risk clients,All clients,18 to 24,"2,293","3,515","1,170",571,547,109,133,283,"8,609"
+2018-19,Number of At risk clients,All clients,25 to 34,"2,287","6,405","1,521","1,164",949,173,180,406,"13,073"
+2018-19,Number of At risk clients,All clients,35 to 44,"2,376","6,305","1,521","1,029",844,157,129,346,"12,685"
+2018-19,Number of At risk clients,All clients,45 to 54,"1,634","4,236",972,694,458,118,90,186,"8,379"
+2018-19,Number of At risk clients,All clients,55 to 64,834,"1,989",476,360,160,66,41,93,"4,012"
+2018-19,Number of At risk clients,All clients,65+,437,"1,305",213,189,56,35,22,39,"2,295"
+2018-19,Number of At risk clients,All clients,Total,"15,341","30,118","9,069","5,732","4,262",709,669,"2,192","68,018"
